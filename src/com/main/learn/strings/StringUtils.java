@@ -1,4 +1,4 @@
-package com.main.learn.string;
+package com.main.learn.strings;
 
 public class StringUtils {
 	public static String strRev(String str){

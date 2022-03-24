@@ -1,4 +1,4 @@
-package com.main.learn;
+package com.main.learn.numbers;
 
 public class NumberUtils {
 
